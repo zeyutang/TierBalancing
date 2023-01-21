@@ -1,0 +1,26 @@
+.DS*
+.vscode
+
+*.pdf
+*.fig
+*.mat
+*.m~
+*.jpg
+*.png
+*.svg
+*.jpeg
+
+transrisk*.csv
+totals.csv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+*.egg-info/
+.installed.cfg
+*.egg
+
+.cache
+
+*.log
