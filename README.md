@@ -1,8 +1,17 @@
-# `Tier Balancing` Code Repository
+# Tier Balancing: Towards Dynamic Fairness over Underlying Causal Factors (ICLR 2023)
 
-ICLR 2023 Paper
+Our paper: [Tier Balancing: Towards Dynamic Fairness over Underlying Causal Factors](https://openreview.net/pdf?id=SZdfz5k7cd1).
 
-"_**Tier Balancing: Towards Dynamic Fairness over Underlying Causal Factors**_"
+If you use the code in our repository, please cite the paper:
+
+```bibtex
+@inproceedings{tang2023tier,
+    title     = {Tier Balancing: Towards Dynamic Fairness over Underlying Causal Factors},
+    author    = {Tang, Zeyu and Chen, Yatong and Liu, Yang and Zhang, Kun},
+    booktitle = {The Eleventh International Conference on Learning Representations},
+    year      = {2023}
+}
+```
 
 Requirements:
 
